@@ -1,0 +1,1 @@
+![Gif de simulacion de Fuego y humo](https://github.com/Luis-Rayas/SimulacionPorComputadora-LuisReyes/blob/main/Practica%206/simulacion.gif)
