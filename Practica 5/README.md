@@ -1,0 +1,1 @@
+![Gif de simulacion de liquido](https://github.com/Luis-Rayas/SimulacionPorComputadora-LuisReyes/blob/main/Practica%205/simulacion.gif)
