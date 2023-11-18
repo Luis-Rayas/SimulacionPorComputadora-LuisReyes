@@ -1,4 +1,4 @@
-![Imagen 1](https://github.com/Luis-Rayas/SimulacionPorComputadora-LuisReyes/blob/main/Practica%207/img1.png)
-![Imagen 2](https://github.com/Luis-Rayas/SimulacionPorComputadora-LuisReyes/blob/main/Practica%207/img2.png)
-![Imagen 3](https://github.com/Luis-Rayas/SimulacionPorComputadora-LuisReyes/blob/main/Practica%207/img3.png)
-![Gif combate](https://github.com/Luis-Rayas/SimulacionPorComputadora-LuisReyes/blob/main/Practica%207/simulacion.gif)
+![Imagen 1](https://github.com/Luis-Rayas/SimulacionPorComputadora-LuisReyes/blob/main/Practica%208/img1.png)
+![Imagen 2](https://github.com/Luis-Rayas/SimulacionPorComputadora-LuisReyes/blob/main/Practica%208/img2.png)
+![Gif 1](https://github.com/Luis-Rayas/SimulacionPorComputadora-LuisReyes/blob/main/Practica%208/simulacion.gif)
+![Gif 2](https://github.com/Luis-Rayas/SimulacionPorComputadora-LuisReyes/blob/main/Practica%208/simulacion2.gif)
